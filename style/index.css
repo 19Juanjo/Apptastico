@@ -46,7 +46,11 @@ nav a {
     padding: 20px;
     background-size: auto 100%;
 }
-
+.raro{
+    border-radius: 30px;
+    background-color: #414b54;
+    padding: 10px 18px;
+}
 .text-1 {
     display: flex;
     justify-content: space-between;
